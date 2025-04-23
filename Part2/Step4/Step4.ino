@@ -10,7 +10,7 @@
 #define TIMER_DIVIDER_VALUE 80
 #define TIMER_INCREMENT_MODE 1
 #define TIMER_ENABLE 1
-#define LED_TOGGLE_INTERVAL 100000 // 1 second
+#define LED_TOGGLE_INTERVAL 1000000 // 1 second
 #define GROUP 0
 
 // This is just for personal organization and readability reasons
